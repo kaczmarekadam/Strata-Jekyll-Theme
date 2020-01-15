@@ -10,7 +10,6 @@ Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 * Lightbox gallery
 * Pre-styled components
 * Blog with pagination
-* Configurable footer
 * Optimized for editing in [CloudCannon](http://cloudcannon.com/)
 * RSS/Atom feed
 * SEO tags
